@@ -1,0 +1,7 @@
+Input			Expected outcome
+1,1,1			Equilateral 
+1,3,3			Isosceles 
+1,2,4			Scalene 
+1,2,3			Not valid // a + b < c, has to apply for a valid triangle
+A			Not valid
+Negative integer	Not valid
